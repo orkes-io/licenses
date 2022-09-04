@@ -15,7 +15,7 @@ of an employer or another entity, you and such employer or other entity represen
 full legal authority to bind such employer or other entity to this Agreement.  
 Orkes and Licensee agree to the following terms and conditions:
 
-Article 1 
+                                  Article 1 
 Definitions
 1.1	“Conductor Community Software” means the Conductor community software, 
 sometimes referred to by the community as Netflix Conductor, contributed by the community 
@@ -31,7 +31,7 @@ in Source Code.
 1.5	“Software” means the Orkes software licensed under this Agreement as may be identified 
 at the following url: https://github.com/orkes-io/licenses/blob/main/community/SOFTWARE.txt 
 
-Article 2 
+                                  Article 2 
 License Grant
 2.1	Software License.  As of the Effective Date, subject to the terms and conditions of this 
 Agreement, including, without limitation, Article 3 (License Restrictions and Intellectual 
@@ -53,7 +53,7 @@ convenience only, and is not part of the Software and is not licensed hereunder.
 solely responsible for procuring and complying with, and shall procure and comply with, any 
 necessary license rights if Licensee uses any Third-Party Intellectual Property. 
 
-Article 3 
+                                  Article 3 
 License Restrictions and Intellectual Property Rights
 3.1	Orkes Software Notice.  Licensee shall not remove or modify any Orkes or third-party 
 copyright or other proprietary notices on the Software.  Additionally, Licensee shall provide the 
@@ -97,7 +97,7 @@ software, technology or Intellectual Property Rights are useful or necessary in 
 the Software.  Licensee agrees not to claim, assert or assist in the claim or assertion of any such 
 license or right disclaimed as provided above. 
 
-Article 4 
+                                  Article 4 
 No Warranty
 THE SOFTWARE IS PROVIDED “AS-IS” WITHOUT ANY WARRANTY OF ANY KIND.  
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, ORKES DISCLAIMS ALL 
@@ -106,7 +106,7 @@ ORAL OR WRITTEN) WITH RESPECT TO THE SOFTWARE, INCLUDING, WITHOUT
 LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A 
 PARTICULAR PURPOSE.
 
-Article 5 
+                                  Article 5 
 Licensee Responsibility
 Licensee, and not Orkes, is solely responsible for any warranties and covenants Licensee makes in 
 connection with the Licensee’s products and services as well as the Software and any results thereof, and 
@@ -116,7 +116,7 @@ validating the suitability and reliability of the Software for all of Licensee�
 Licensee must take prudent steps to protect against failures when the Software or results thereof is 
 incorporated in a system or application, including providing back-up and shut-down mechanisms.
 
-Article 6 
+                                  Article 6 
 Limitation of Liability
 6.1	Limitation of Liability.  ORKES SHALL NOT BE LIABLE TO LICENSEE FOR ANY 
 SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, 
@@ -139,7 +139,7 @@ limitation shall be modified to disclaim and/or limit in accordance with applica
 limiting the foregoing, to the extent required by law, the foregoing limitations shall not apply to 
 claims due to fraud, bodily injury or death.
 
-Article 7 
+                                  Article 7 
 Termination
 7.1	Term.  This Agreement shall become effective until terminated.
 7.2	Termination for Cause.  Orkes may terminate this Agreement upon written notice to the 
@@ -159,7 +159,7 @@ and Intellectual Property Rights), Article 4 (No Warranty), Article 5 (Limitatio
 Article 6 (Term and Termination) and Article 7 (Miscellaneous) shall survive termination of this 
 Agreement.
 
-Article 8 
+                                  Article 8 
 Miscellaneous
 8.1	Relationship of Parties.  The Parties to this Agreement are independent contractors, and 
 this Agreement shall not establish any relationship of partnership, joint venture, employment, 

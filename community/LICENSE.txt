@@ -36,7 +36,7 @@ Orkes Community License Agreement
          Licensee by Orkes in Source Code.
 
          1.5    “Software” means the Orkes software licensed under this Agreement as may
-         be identified at the following url: [insert applicable URL].
+         be identified at the following url: https://github.com/orkes-io/licenses/blob/main/community/LICENSE.txt
 
               Article 2
               License Grant
